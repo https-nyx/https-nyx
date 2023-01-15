@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Izanagi-42
+- 👋 Hi, I’m Nikolai Andrei Calizar
 - 🌱 I’m currently learning Java
 
 
