@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nikolai Andrei Calizar
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Bootstrap
+-  I'm trying to familiarize in React and Vue
 
 
 <!---
