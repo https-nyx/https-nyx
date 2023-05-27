@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nikolai Andrei Calizar
-- 🌱 I’m currently learning Bootstrap
--  I'm trying to familiarize in React and Vue
+- 👨‍💻 I'm a college sophomore
+- 💻 I’m currently learning Python
+- 📚 I'm learning the Kivy Library
 
 
 <!---
