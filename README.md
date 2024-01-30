@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikolai Andrei Calizar
 - 👨‍💻 I'm a college sophomore
-- 💻 I’m currently learning Python
-- 📚 I'm learning the Kivy Library
+- 💻 I’m currently learning the MERN Stack
+- 📚 I'm learning the Fullstack Development
 
 
 <!---
