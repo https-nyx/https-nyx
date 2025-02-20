@@ -9,13 +9,13 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/">
+  <a href="https://www.facebook.com/niko.clzr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/nikolaicalizar">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tkshclz07@gmail.com">
+  <a href="mailto:https.nyx@tutanota.com">
     <img src="https://img.shields.io/badge/Tutanota-AA0000?style=for-the-badge&logo=tutanota&logoColor=white" />
   </a>
 </p>
