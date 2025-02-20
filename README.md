@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 
@@ -53,9 +52,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https-nyx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-nyx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
