@@ -1,68 +1,53 @@
-<h1 align="center"> 🚀 Aspiring Cybersecurity Specialist 🚀 </h1>
+<h1 align="center">🚀 Aspiring Software Engineer 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Network+Engineer;Ethical+Hacker;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;C%23+.NET+Engineer;ASP.NET+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🌍 Connect With Me  
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.facebook.com/niko.clzr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nikolaicalizar">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:https.nyx@tutanota.com">
     <img src="https://img.shields.io/badge/Tutanota-AA0000?style=for-the-badge&logo=tutanota&logoColor=white" />
   </a>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🌐 Frontend & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ Technologies I Specialize In  
+## 📊 GitHub Stats
 
-### 🛜 **Networking & Security**  
-<p align="center">
-  <img src="https://img.shields.io/badge/VyOS-EE7026?style=for-the-badge&logo=vyos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20vSwitch-1E90FF?style=for-the-badge&logo=openvswitch&logoColor=white" />
-  <img src="https://img.shields.io/badge/pfSense-003366?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNS3-0078D4?style=for-the-badge&logo=gns3&logoColor=white" />
-</p>
-
-### 🛡️ **Cybersecurity & Penetration Testing**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-%235A627A.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-EA4335?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
-### 💻 **Programming & Virtualization**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=https-nyx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-nyx&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-
-
-<!---
-Izanagi-42/Izanagi-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
