@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Aspiring Software Engineer 🚀</h1>
+<h1 align="center">🛡️ Cybersecurity & SOC Analyst</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;C%23+.NET+Engineer;ASP.NET+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Security+Operations+Center+Analyst;Threat+Detection+%26+Response;Blue+Team+Practitioner;Docker-Savvy+Defender" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,30 +22,28 @@
 
 ---
 
-## 💻 Tech Stack
+## 🔐 Security Stack
 
-### 🧠 Languages & Frameworks
+### 🧠 Core Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Analysis-0A84FF?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-5A5A5A?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Response-FF3B30?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-F59E0B?style=for-the-badge&logo=broadcast-tower&logoColor=white" />
+</p>
+
+### 🔧 Platforms & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/SIEM%20(Elastic%2C%20Splunk)-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDR%20Tools-4A4A4A?style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Analysis%20(Wireshark)-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+### 🧰 Scripting & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9" /> 
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
-
-### 🌐 Frontend & Tools
-<p align="center"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https-nyx&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-nyx&layout=compact&theme=tokyonight" alt="Top Languages" style="height:27vh;" />
-</div> 
