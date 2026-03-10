@@ -1,7 +1,7 @@
-<h1 align="center">🛡️ Cybersecurity & SOC Analyst</h1>
+<h1 align="center">Full-Stack Engineer</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Security+Operations+Center+Analyst;Threat+Detection+%26+Response;Blue+Team+Practitioner;Docker-Savvy+Defender" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Laravel+%26+PHP;MERN+Stack+Developer;Python+%26+C+++Integration;Docker+%26+DevOps" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,28 +22,48 @@
 
 ---
 
-## 🔐 Security Stack
+## 💻 Tech Stack
 
-### 🧠 Core Skills
+### 🎨 Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analysis-0A84FF?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-5A5A5A?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Incident%20Response-FF3B30?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-F59E0B?style=for-the-badge&logo=broadcast-tower&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🔧 Platforms & Tools
+---
+
+### ⚙️ Backend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM%20(Elastic%2C%20Splunk)-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDR%20Tools-4A4A4A?style=for-the-badge&logo=sentinelone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Analysis%20(Wireshark)-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 🧰 Scripting & Automation
+---
+
+### 🗄️ Databases
 <p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Systems & Performance
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nanobind-4A4A4A?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Infrastructure & Dev Environment
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
